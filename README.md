@@ -23,6 +23,6 @@ Please take a look at some of my projects below :arrow_down:
 
 <div>
   <a href="https://github.com/kamzie">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kamzie&count_private=true&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamzie&layout=compact&langs_count=10"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kamzie&count_private=true&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamzie&layout=compact&langs_count=10"/>
 </div>
