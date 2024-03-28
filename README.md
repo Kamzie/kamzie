@@ -1,6 +1,4 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Kamran Ramzan</h1>
-<h3 align="center">A web developer based in London</h3>
 
 - 🌱 I’m currently learning **AWS Cloud Tech**
 
