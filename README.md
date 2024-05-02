@@ -8,7 +8,7 @@
 
 2. Transitioned from CodePen to VSCode/GitHub + Git Bash.
 
-3. Transitioned from Windows 11/Shell to Linux (Ubuntu 22.04) environment and familiarized myself with the Linux terminal/bash.
+3. Transitioned from Windows 11/Shell to Linux (Ubuntu 22.04) environment and familiarise myself with the Linux terminal/bash.
 
 4. Self-study with Adrian Cantrill/Stephane Maarek AWS SAA/DevOps/SysOps courses.
    - ~~Study towards AWS Solutions architect certification.~~ - Passed SAA-C03 &#10004;
