@@ -31,9 +31,10 @@
     - Cloud Is Free projects.
 ---
 
- 
 
 Please take a look at some of my projects below :arrow_down:
+
+---
 
 ## Main technologies/languages/tools used:
 
