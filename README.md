@@ -23,7 +23,7 @@
 
 8. Study Docker/Kubernetes and CI/CD via Freecodecamp/Udemy.
 
-9. Utilized web projects, including APIs, to deploy on the cloud via AWS console, CLI, and Infrastructure as Code (IaC).
+9. Utilise web projects, including APIs, to deploy on the cloud via AWS console, CLI, and Infrastructure as Code (IaC).
 
 10. Further cloud projects include:
     - The Cloud Resume Challenge.
