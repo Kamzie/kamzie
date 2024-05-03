@@ -15,9 +15,9 @@
    - ~~Study towards AWS Developer associate certification.~~ - Passed DVA-C02 &#10004;
    - Currently studying towards AWS SysOps Administrator.
 
-5. Completed a Linux/bash scripting course by Jason Cannon.
+5. Complete a Linux/bash scripting course by Jason Cannon.
 
-6. Completed "More than Certified in Terraform" course by Derak Morgan.
+6. Complete "More than Certified in Terraform" course by Derak Morgan.
 
 7. Look into CompTIA Network+/CCNA and Linux Red Hat courses/certifications.
 
