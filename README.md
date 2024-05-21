@@ -1,19 +1,22 @@
 ![Header](./github-header-image.png)
 
-### My self-taught journey so far:  
+### My self-taught journey so far:
+
 ---
 
 1. Completed HTML/CSS/JavaScript course and projects on Freecodecamp.
+
    - Projects included a web portfolio, resume, responsive website, and API apps to deploy on the cloud.
 
-2. Transitioned from CodePen to VSCode/GitHub + Git Bash.
+2. Transition from CodePen to VSCode/GitHub + Git Bash.
 
-3. Transitioned from Windows 11/Shell to Linux (Ubuntu 22.04) environment and familiarise myself with the Linux terminal/bash.
+3. Transition from Windows 11/Shell to Linux(Ubuntu 22.04) terminal/bash.
 
 4. Self-study with Adrian Cantrill/Stephane Maarek AWS SAA/DevOps/SysOps courses.
+
    - ~~Study towards AWS Solutions architect certification.~~ - Passed SAA-C03 &#10004;
    - ~~Study towards AWS Developer associate certification.~~ - Passed DVA-C02 &#10004;
-   - Currently studying towards AWS SysOps Administrator.
+   - ~~Currently studying towards AWS SysOps Administrator.~~ - Passed SOA-C02 &#10004;
 
 5. Complete a Linux/bash scripting course by Jason Cannon.
 
@@ -23,14 +26,14 @@
 
 8. Study Docker/Kubernetes and CI/CD via Freecodecamp/Udemy.
 
-9. Utilise web projects, including APIs, to deploy on the cloud via AWS console, CLI, and Infrastructure as Code (IaC).
+9. Utilise personal web projects, including APIs, to deploy on the cloud via AWS console, CLI, and Infrastructure as Code (IaC).
 
 10. Further cloud projects include:
     - The Cloud Resume Challenge.
     - Learn to Cloud study plan.
     - Cloud Is Free projects.
----
 
+---
 
 Please take a look at some of my projects below :arrow_down:
 
@@ -51,8 +54,6 @@ Please take a look at some of my projects below :arrow_down:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
 
 <div>
   <a href="https://github.com/kamzie">
