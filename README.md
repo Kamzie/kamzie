@@ -12,13 +12,13 @@
 
 3. Transition from Windows 11/Shell to Linux(Ubuntu 22.04) terminal/bash.
 
-4. Self-study with Adrian Cantrill/Stephane Maarek AWS SAA/DevOps/SysOps courses.
+4. Created various bash scripts using VIM to automate tasks such as user and network management, backup and deletion, security monitoring via logs, and some personal scripts I use daily.
+   - [Bash scripting repository](https://github.com/Kamzie/Bash-scripts).
+5. Self-study with Adrian Cantrill/Stephane Maarek AWS SAA/DevOps/SysOps courses.
 
    - ~~Study towards AWS Solutions architect certification.~~ - Passed SAA-C03 &#10004;
    - ~~Study towards AWS Developer associate certification.~~ - Passed DVA-C02 &#10004;
    - ~~Currently studying towards AWS SysOps Administrator.~~ - Passed SOA-C02 &#10004;
-
-5. Complete a Linux/bash scripting course by Jason Cannon.
 
 6. Complete "More than Certified in Terraform" course by Derak Morgan.
 
