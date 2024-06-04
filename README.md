@@ -13,7 +13,7 @@
 3. Transition from Windows 11/Shell to Linux(Ubuntu 22.04) terminal/bash.
 
 4. Created various bash scripts using VIM to automate tasks such as user and network management, backup and deletion, security monitoring via logs, and some personal scripts I use daily.
-   - [Bash scripting repository](https://github.com/Kamzie/Bash-scripts).
+   - [Bash scripting repository](https://github.com/Kamzie/Bash-scripts)
 5. Self-study with Adrian Cantrill/Stephane Maarek AWS SAA/DevOps/SysOps courses.
 
    - ~~Study towards AWS Solutions architect certification.~~ - Passed SAA-C03 &#10004;
