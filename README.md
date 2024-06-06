@@ -8,9 +8,9 @@
 
    - Projects included a web portfolio, resume, responsive website, and API apps to deploy on the cloud.
 
-2. Transition from CodePen to VSCode/GitHub + Git Bash.
+2. Transitioned from CodePen to a professional workflow using VSCode, GitHub, and Git Bash.
 
-3. Transition from Windows 11/Shell to Linux(Ubuntu 22.04) terminal/bash.
+3. Switched from Windows to Linux gaining hands-on experience with the Linux terminal and Bash environment.
 
 4. Created various bash scripts using VIM to automate tasks such as user and network management, backup and deletion, security monitoring via logs, and some personal scripts I use daily.
    - [Bash scripting repository](https://github.com/Kamzie/Bash-scripts)
