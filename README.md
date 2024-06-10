@@ -4,9 +4,8 @@
 
 ---
 
-1. Completed HTML/CSS/JavaScript course and projects on Freecodecamp.
+1. Completed HTML, CSS, and JavaScript courses on FreeCodeCamp, creating projects such as a web portfolio, resume, responsive website, and API apps intended for cloud deployment.
 
-   - Projects included a web portfolio, resume, responsive website, and API apps to deploy on the cloud.
    - [Responsive Website](https://github.com/Kamzie/Hayao-Miyazaki---Website)
    - [API Projects](https://github.com/Kamzie/FCC-JavaScript-Projects---API-Apps)
 
