@@ -7,31 +7,36 @@
 1. Completed HTML/CSS/JavaScript course and projects on Freecodecamp.
 
    - Projects included a web portfolio, resume, responsive website, and API apps to deploy on the cloud.
+   - [Responsive Website](https://github.com/Kamzie/Hayao-Miyazaki---Website)
+   - [API Projects](https://github.com/Kamzie/FCC-JavaScript-Projects---API-Apps)
 
-2. Transitioned from CodePen to a professional workflow using VSCode, GitHub, and Git Bash.
+2. Switched from CodePen to a professional setup with VSCode, GitHub, and Git Bash, while also transitioning to Linux for hands-on experience with the terminal and Bash.
 
-3. Switched from Windows to Linux gaining hands-on experience with the Linux terminal and Bash environment.
+3. Created various bash scripts using VIM to automate tasks such as user and network management, backup and deletion (cloud-based), security monitoring via logs, and some personal scripts I use daily.
 
-4. Created various bash scripts using VIM to automate tasks such as user and network management, backup and deletion, security monitoring via logs, and some personal scripts I use daily.
+   - [Cloud Uploader](https://github.com/Kamzie/cloud-uploader)
+   - [User Account Management](https://github.com/Kamzie/user-account-management-script)
+   - [Remote Execution](https://github.com/Kamzie/remote-execution-script)
    - [Bash scripting repository](https://github.com/Kamzie/Bash-scripts)
-5. Self-study with Adrian Cantrill/Stephane Maarek AWS SAA/DevOps/SysOps courses.
+
+4. Self-study with Adrian Cantrill/Stephane Maarek AWS SAA/DevOps/SysOps courses.
 
    - ~~Study towards AWS Solutions architect certification.~~ - Passed SAA-C03 &#10004;
    - ~~Study towards AWS Developer associate certification.~~ - Passed DVA-C02 &#10004;
    - ~~Currently studying towards AWS SysOps Administrator.~~ - Passed SOA-C02 &#10004;
 
-6. Complete "More than Certified in Terraform" course by Derak Morgan.
+5. Complete "More than Certified in Terraform" course by Derak Morgan.
 
-7. Look into CompTIA Network+/CCNA and Linux Red Hat courses/certifications.
+6. Look into CompTIA Network+/CCNA and Linux Red Hat courses/certifications.
 
-8. Study Docker/Kubernetes and CI/CD via Freecodecamp/Udemy.
+7. Study Docker/Kubernetes and CI/CD via Freecodecamp/Udemy.
 
-9. Utilise personal web projects, including APIs, to deploy on the cloud via AWS console, CLI, and Infrastructure as Code (IaC).
+8. Utilise personal web projects, including APIs, to deploy on the cloud via AWS console, CLI, and Infrastructure as Code (IaC).
 
-10. Further cloud projects include:
-    - The Cloud Resume Challenge.
-    - Learn to Cloud study plan.
-    - Cloud Is Free projects.
+9. Further cloud projects include:
+   - The Cloud Resume Challenge.
+   - Learn to Cloud study plan.
+   - Cloud Is Free projects.
 
 ---
 
@@ -41,14 +46,12 @@ Please take a look at some of my projects below :arrow_down:
 
 ## Main technologies/languages/tools used:
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
