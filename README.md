@@ -9,7 +9,7 @@
    - [Responsive Website](https://github.com/Kamzie/Hayao-Miyazaki---Website)
    - [API Projects](https://github.com/Kamzie/FCC-JavaScript-Projects---API-Apps)
 
-2. Switched from CodePen to a professional setup with VSCode, GitHub, and Git Bash, while also transitioning to Linux for hands-on experience with the terminal and Bash.
+2. Switched from CodePen to a professional setup with VSCode, GitHub, and Git Bash, while also transitioning to Linux to improve my system administration skills and gain hands-on experience with the terminal and Bash scripting.
 
 3. Created various bash scripts using VIM to automate tasks such as user and network management, backup and deletion (cloud-based), security monitoring via logs, and some personal scripts I use daily.
 
