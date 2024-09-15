@@ -20,9 +20,9 @@
 
 4. Self-study with Adrian Cantrill/Stephane Maarek AWS SAA/DevOps/SysOps courses.
 
-   - ~~Study towards AWS Solutions architect certification.~~ - Passed SAA-C03 &#10004;
-   - ~~Study towards AWS Developer associate certification.~~ - Passed DVA-C02 &#10004;
-   - ~~Currently studying towards AWS SysOps Administrator.~~ - Passed SOA-C02 &#10004;
+   - ~~Study towards AWS Solutions architect certification.~~ - [Passed SAA-C03](https://github.com/Kamzie/Certs/blob/main/AWS%20-%20Solutions%20Architect%20-%20Associate%20certificate.pdf) &#10004;
+   - ~~Study towards AWS Developer associate certification.~~ - [Passed DVA-C02](https://github.com/Kamzie/Certs/blob/main/AWS%20-%20Developer%20-%20Associate%20certificate.pdf) &#10004;
+   - ~~Currently studying towards AWS SysOps Administrator.~~ - [Passed SOA-C02](https://github.com/Kamzie/Certs/blob/main/AWS%20-%20SysOps%20Administrator%20-%20Associate%20certificate.pdf) &#10004;
 
 5. Complete "More than Certified in Terraform" course by Derak Morgan.
 
